@@ -2,3 +2,10 @@ p {
 	font-family: Arial;
 	color: red;
 }
+#whito{background-color: green; color: white}
+#preto{background-color:red;color:black}
+#purpl{background-color: purple;color:white}
+#dogo{background-color: brown;color:beige}
+#cat{background-color: floralwhite;color:aqua}
+#horse{background-color: firebrick;color: bisque}
+#animal{font-weight: bold}
